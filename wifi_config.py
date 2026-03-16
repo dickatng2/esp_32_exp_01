@@ -1,0 +1,2 @@
+SSID = "CH3COOH"
+PASSWORD = "aPa16@BGR"
